@@ -20,3 +20,5 @@ var midPoint = function(p1, p2){
 	return MyPoint.makePointWithX(p1.x + xDelta, p1.y + yDelta);
 }
 
+euclideanDistance(point1, point2);
+
